@@ -1,10 +1,4 @@
-//
-//  UIViewLayoutExtensions.swift
-//  Goalv8
-//
-//  Created by Andrzej Spiess on 24.07.2015.
-//  Copyright © 2015 Perform. All rights reserved.
-//
+
 
 import UIKit
 
